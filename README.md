@@ -1,4 +1,4 @@
-This is a bisection method on google sheet
+This is a bisection method google sheet 
 https://docs.google.com/spreadsheets/d/1q3hMW2plzj9_jLCL853Va_bkQrsaD-U6fVJCqP9tZZc/edit?usp=sharing
 
 This down below is a screenshot from collab
